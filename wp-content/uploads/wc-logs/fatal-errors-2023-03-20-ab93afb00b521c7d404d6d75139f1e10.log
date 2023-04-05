@@ -1,0 +1,244 @@
+2023-03-20T13:40:51+00:00 CRITICAL Uncaught Error: Call to undefined method ACF_Ajax_Check_Screen::verify_request() in D:\xampp\htdocs\bridget\wp-content\plugins\acf-extended\includes\field-groups\field-group-hide-on-screen.php:136
+Stack trace:
+#0 D:\xampp\htdocs\bridget\wp-includes\class-wp-hook.php(308): acfe_field_group_hide_on_screen->ajax_check_screen('')
+#1 D:\xampp\htdocs\bridget\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 D:\xampp\htdocs\bridget\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\bridget\wp-admin\admin-ajax.php(188): do_action('wp_ajax_acf/aja...')
+#4 {main}
+  thrown in D:\xampp\htdocs\bridget\wp-content\plugins\acf-extended\includes\field-groups\field-group-hide-on-screen.php on line 136
+
+2023-03-20T13:40:53+00:00 CRITICAL Uncaught Error: Call to undefined method ACF_Ajax_Check_Screen::verify_request() in D:\xampp\htdocs\bridget\wp-content\plugins\acf-extended\includes\field-groups\field-group-hide-on-screen.php:136
+Stack trace:
+#0 D:\xampp\htdocs\bridget\wp-includes\class-wp-hook.php(308): acfe_field_group_hide_on_screen->ajax_check_screen('')
+#1 D:\xampp\htdocs\bridget\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 D:\xampp\htdocs\bridget\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\bridget\wp-admin\admin-ajax.php(188): do_action('wp_ajax_acf/aja...')
+#4 {main}
+  thrown in D:\xampp\htdocs\bridget\wp-content\plugins\acf-extended\includes\field-groups\field-group-hide-on-screen.php on line 136
+
+2023-03-20T13:41:17+00:00 CRITICAL Uncaught Error: Call to undefined method ACF_Ajax_Check_Screen::verify_request() in D:\xampp\htdocs\bridget\wp-content\plugins\acf-extended\includes\field-groups\field-group-hide-on-screen.php:136
+Stack trace:
+#0 D:\xampp\htdocs\bridget\wp-includes\class-wp-hook.php(308): acfe_field_group_hide_on_screen->ajax_check_screen('')
+#1 D:\xampp\htdocs\bridget\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 D:\xampp\htdocs\bridget\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\bridget\wp-admin\admin-ajax.php(188): do_action('wp_ajax_acf/aja...')
+#4 {main}
+  thrown in D:\xampp\htdocs\bridget\wp-content\plugins\acf-extended\includes\field-groups\field-group-hide-on-screen.php on line 136
+
+2023-03-20T15:47:01+00:00 CRITICAL Uncaught Error: Call to undefined method ACF_Ajax_Check_Screen::verify_request() in D:\xampp\htdocs\bridget\wp-content\plugins\acf-extended\includes\field-groups\field-group-hide-on-screen.php:136
+Stack trace:
+#0 D:\xampp\htdocs\bridget\wp-includes\class-wp-hook.php(308): acfe_field_group_hide_on_screen->ajax_check_screen('')
+#1 D:\xampp\htdocs\bridget\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 D:\xampp\htdocs\bridget\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\bridget\wp-admin\admin-ajax.php(188): do_action('wp_ajax_acf/aja...')
+#4 {main}
+  thrown in D:\xampp\htdocs\bridget\wp-content\plugins\acf-extended\includes\field-groups\field-group-hide-on-screen.php on line 136
+
+2023-03-20T15:51:15+00:00 CRITICAL Uncaught Error: Call to a member function get_items() on bool in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php:123
+Stack trace:
+#0 D:\xampp\htdocs\bridget\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\bridget\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\bridget\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php on line 123
+
+2023-03-20T15:51:33+00:00 CRITICAL Uncaught Error: Call to a member function get_items() on string in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php:123
+Stack trace:
+#0 D:\xampp\htdocs\bridget\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\bridget\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\bridget\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php on line 123
+
+2023-03-20T15:53:39+00:00 CRITICAL Uncaught Error: Call to a member function get_data() on bool in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php:122
+Stack trace:
+#0 D:\xampp\htdocs\bridget\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\bridget\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\bridget\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php on line 122
+
+2023-03-20T15:53:56+00:00 CRITICAL Uncaught Error: Call to a member function get_data() on bool in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php:122
+Stack trace:
+#0 D:\xampp\htdocs\bridget\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\bridget\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\bridget\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php on line 122
+
+2023-03-20T15:56:13+00:00 CRITICAL Uncaught Error: Call to a member function get_data() on bool in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php:130
+Stack trace:
+#0 D:\xampp\htdocs\bridget\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\bridget\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\bridget\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php on line 130
+
+2023-03-20T16:11:45+00:00 CRITICAL Uncaught Error: Undefined constant "amount" in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php:132
+Stack trace:
+#0 D:\xampp\htdocs\bridget\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\bridget\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\bridget\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php on line 132
+
+2023-03-20T16:11:52+00:00 CRITICAL Uncaught Error: Cannot use object of type Automattic\WooCommerce\Admin\Overrides\OrderRefund as array in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php:132
+Stack trace:
+#0 D:\xampp\htdocs\bridget\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\bridget\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\bridget\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php on line 132
+
+2023-03-20T16:36:14+00:00 CRITICAL Uncaught Error: Call to a member function get_orders() on null in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php:144
+Stack trace:
+#0 D:\xampp\htdocs\bridget\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\bridget\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\bridget\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php on line 144
+
+2023-03-20T16:36:33+00:00 CRITICAL Uncaught Error: Call to a member function get_orders() on null in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php:144
+Stack trace:
+#0 D:\xampp\htdocs\bridget\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\bridget\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\bridget\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php on line 144
+
+2023-03-20T16:36:52+00:00 CRITICAL Uncaught Error: Call to a member function get_orders() on null in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php:144
+Stack trace:
+#0 D:\xampp\htdocs\bridget\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\bridget\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\bridget\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php on line 144
+
+2023-03-20T16:36:58+00:00 CRITICAL Uncaught Error: Call to a member function get_orders() on null in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php:144
+Stack trace:
+#0 D:\xampp\htdocs\bridget\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\bridget\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\bridget\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php on line 144
+
+2023-03-20T16:37:04+00:00 CRITICAL Uncaught Error: Call to a member function get_orders() on null in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php:144
+Stack trace:
+#0 D:\xampp\htdocs\bridget\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\bridget\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\bridget\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php on line 144
+
+2023-03-20T16:37:13+00:00 CRITICAL Uncaught Error: Call to a member function get_orders() on null in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php:144
+Stack trace:
+#0 D:\xampp\htdocs\bridget\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\bridget\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\bridget\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php on line 144
+
+2023-03-20T16:51:48+00:00 CRITICAL Uncaught Error: Cannot use object of type Automattic\WooCommerce\Admin\Overrides\Order as array in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php:135
+Stack trace:
+#0 D:\xampp\htdocs\bridget\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\bridget\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\bridget\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php on line 135
+
+2023-03-20T16:51:55+00:00 CRITICAL Uncaught Error: Cannot use object of type Automattic\WooCommerce\Admin\Overrides\Order as array in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php:135
+Stack trace:
+#0 D:\xampp\htdocs\bridget\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\bridget\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\bridget\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php on line 135
+
+2023-03-20T16:53:33+00:00 CRITICAL Uncaught Error: Call to undefined method Automattic\WooCommerce\Admin\Overrides\Order::get_name() in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php:135
+Stack trace:
+#0 D:\xampp\htdocs\bridget\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\bridget\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\bridget\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php on line 135
+
+2023-03-20T16:54:01+00:00 CRITICAL Uncaught Error: Call to undefined method Automattic\WooCommerce\Admin\Overrides\Order::get_name() in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php:135
+Stack trace:
+#0 D:\xampp\htdocs\bridget\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\bridget\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\bridget\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php on line 135
+
+2023-03-20T17:02:18+00:00 CRITICAL Uncaught Error: Call to a member function get_name() on array in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php:138
+Stack trace:
+#0 D:\xampp\htdocs\bridget\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\bridget\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\bridget\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php on line 138
+
+2023-03-20T17:02:28+00:00 CRITICAL Uncaught Error: Call to undefined method Automattic\WooCommerce\Admin\Overrides\Order::get_name() in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php:138
+Stack trace:
+#0 D:\xampp\htdocs\bridget\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\bridget\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\bridget\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php on line 138
+
+2023-03-20T17:03:24+00:00 CRITICAL Uncaught Error: Call to a member function get_items() on string in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php:135
+Stack trace:
+#0 D:\xampp\htdocs\bridget\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\bridget\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\bridget\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php on line 135
+
+2023-03-20T17:03:40+00:00 CRITICAL Uncaught Error: Call to a member function get_items() on int in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php:137
+Stack trace:
+#0 D:\xampp\htdocs\bridget\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\bridget\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\bridget\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php on line 137
+
+2023-03-20T17:03:50+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order_Item_Product::get_items() in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php:137
+Stack trace:
+#0 D:\xampp\htdocs\bridget\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\bridget\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\bridget\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php on line 137
+
+2023-03-20T17:04:03+00:00 CRITICAL Uncaught Error: Call to a member function get_items() on null in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php:136
+Stack trace:
+#0 D:\xampp\htdocs\bridget\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\bridget\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\bridget\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php on line 136
+
+2023-03-20T17:12:33+00:00 CRITICAL Uncaught Error: Call to undefined method Automattic\WooCommerce\Admin\Overrides\Order::get_date() in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php:156
+Stack trace:
+#0 D:\xampp\htdocs\bridget\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\bridget\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\bridget\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php on line 156
+
+2023-03-20T17:13:23+00:00 CRITICAL Uncaught Error: Cannot use object of type Automattic\WooCommerce\Admin\Overrides\Order as array in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php:156
+Stack trace:
+#0 D:\xampp\htdocs\bridget\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\bridget\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\bridget\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php on line 156
+
+2023-03-20T17:13:58+00:00 CRITICAL Uncaught Error: Cannot use object of type Automattic\WooCommerce\Admin\Overrides\Order as array in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php:156
+Stack trace:
+#0 D:\xampp\htdocs\bridget\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\bridget\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\bridget\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders.php on line 156
+

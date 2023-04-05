@@ -1,0 +1,110 @@
+2023-03-29T12:31:06+00:00 CRITICAL Uncaught Error: Cannot use object of type Automattic\WooCommerce\Admin\Overrides\Order as array in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders-log.php:9
+Stack trace:
+#0 D:\xampp\htdocs\bridget\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\bridget\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\bridget\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders-log.php on line 9
+
+2023-03-29T12:31:21+00:00 CRITICAL Uncaught Error: Cannot use object of type Automattic\WooCommerce\Admin\Overrides\Order as array in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders-log.php:9
+Stack trace:
+#0 D:\xampp\htdocs\bridget\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\bridget\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\bridget\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders-log.php on line 9
+
+2023-03-29T12:45:38+00:00 CRITICAL Uncaught Error: Cannot use object of type Automattic\WooCommerce\Admin\Overrides\Order as array in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders-log.php:20
+Stack trace:
+#0 D:\xampp\htdocs\bridget\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\bridget\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\bridget\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders-log.php on line 20
+
+2023-03-29T13:20:45+00:00 CRITICAL Uncaught Error: Call to undefined method Automattic\WooCommerce\Admin\Overrides\Order::get_userdata() in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders-log.php:8
+Stack trace:
+#0 D:\xampp\htdocs\bridget\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\bridget\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\bridget\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\orders-log.php on line 8
+
+2023-03-29T17:42:38+00:00 CRITICAL Uncaught Error: Call to undefined method ACF_Ajax_Check_Screen::verify_request() in D:\xampp\htdocs\bridget\wp-content\plugins\acf-extended\includes\field-groups\field-group-hide-on-screen.php:136
+Stack trace:
+#0 D:\xampp\htdocs\bridget\wp-includes\class-wp-hook.php(308): acfe_field_group_hide_on_screen->ajax_check_screen('')
+#1 D:\xampp\htdocs\bridget\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 D:\xampp\htdocs\bridget\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\bridget\wp-admin\admin-ajax.php(188): do_action('wp_ajax_acf/aja...')
+#4 {main}
+  thrown in D:\xampp\htdocs\bridget\wp-content\plugins\acf-extended\includes\field-groups\field-group-hide-on-screen.php on line 136
+
+2023-03-29T17:52:07+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Product_Simple as array in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\view-inventory.php:9
+Stack trace:
+#0 D:\xampp\htdocs\bridget\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\bridget\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\bridget\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\view-inventory.php on line 9
+
+2023-03-29T17:54:32+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Product_Simple as array in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\view-inventory.php:13
+Stack trace:
+#0 D:\xampp\htdocs\bridget\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\bridget\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\bridget\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\view-inventory.php on line 13
+
+2023-03-29T17:54:58+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Product_Simple as array in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\view-inventory.php:13
+Stack trace:
+#0 D:\xampp\htdocs\bridget\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\bridget\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\bridget\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\bridget\wp-content\themes\CustomTheme\page-templates\view-inventory.php on line 13
+
+2023-03-29T18:17:01+00:00 CRITICAL Uncaught Error: Call to undefined method ACF_Ajax_Check_Screen::verify_request() in D:\xampp\htdocs\bridget\wp-content\plugins\acf-extended\includes\field-groups\field-group-hide-on-screen.php:136
+Stack trace:
+#0 D:\xampp\htdocs\bridget\wp-includes\class-wp-hook.php(308): acfe_field_group_hide_on_screen->ajax_check_screen('')
+#1 D:\xampp\htdocs\bridget\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 D:\xampp\htdocs\bridget\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\bridget\wp-admin\admin-ajax.php(188): do_action('wp_ajax_acf/aja...')
+#4 {main}
+  thrown in D:\xampp\htdocs\bridget\wp-content\plugins\acf-extended\includes\field-groups\field-group-hide-on-screen.php on line 136
+
+2023-03-29T18:17:05+00:00 CRITICAL Uncaught Error: Call to undefined method ACF_Ajax_Check_Screen::verify_request() in D:\xampp\htdocs\bridget\wp-content\plugins\acf-extended\includes\field-groups\field-group-hide-on-screen.php:136
+Stack trace:
+#0 D:\xampp\htdocs\bridget\wp-includes\class-wp-hook.php(308): acfe_field_group_hide_on_screen->ajax_check_screen('')
+#1 D:\xampp\htdocs\bridget\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 D:\xampp\htdocs\bridget\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\bridget\wp-admin\admin-ajax.php(188): do_action('wp_ajax_acf/aja...')
+#4 {main}
+  thrown in D:\xampp\htdocs\bridget\wp-content\plugins\acf-extended\includes\field-groups\field-group-hide-on-screen.php on line 136
+
+2023-03-29T18:17:09+00:00 CRITICAL Uncaught Error: Call to undefined method ACF_Ajax_Check_Screen::verify_request() in D:\xampp\htdocs\bridget\wp-content\plugins\acf-extended\includes\field-groups\field-group-hide-on-screen.php:136
+Stack trace:
+#0 D:\xampp\htdocs\bridget\wp-includes\class-wp-hook.php(308): acfe_field_group_hide_on_screen->ajax_check_screen('')
+#1 D:\xampp\htdocs\bridget\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 D:\xampp\htdocs\bridget\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\bridget\wp-admin\admin-ajax.php(188): do_action('wp_ajax_acf/aja...')
+#4 {main}
+  thrown in D:\xampp\htdocs\bridget\wp-content\plugins\acf-extended\includes\field-groups\field-group-hide-on-screen.php on line 136
+
+2023-03-29T18:18:53+00:00 CRITICAL Uncaught Error: Call to undefined method ACF_Ajax_Check_Screen::verify_request() in D:\xampp\htdocs\bridget\wp-content\plugins\acf-extended\includes\field-groups\field-group-hide-on-screen.php:136
+Stack trace:
+#0 D:\xampp\htdocs\bridget\wp-includes\class-wp-hook.php(308): acfe_field_group_hide_on_screen->ajax_check_screen('')
+#1 D:\xampp\htdocs\bridget\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 D:\xampp\htdocs\bridget\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\bridget\wp-admin\admin-ajax.php(188): do_action('wp_ajax_acf/aja...')
+#4 {main}
+  thrown in D:\xampp\htdocs\bridget\wp-content\plugins\acf-extended\includes\field-groups\field-group-hide-on-screen.php on line 136
+
+2023-03-29T18:18:53+00:00 CRITICAL Uncaught Error: Call to undefined method ACF_Ajax_Check_Screen::verify_request() in D:\xampp\htdocs\bridget\wp-content\plugins\acf-extended\includes\field-groups\field-group-hide-on-screen.php:136
+Stack trace:
+#0 D:\xampp\htdocs\bridget\wp-includes\class-wp-hook.php(308): acfe_field_group_hide_on_screen->ajax_check_screen('')
+#1 D:\xampp\htdocs\bridget\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 D:\xampp\htdocs\bridget\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\bridget\wp-admin\admin-ajax.php(188): do_action('wp_ajax_acf/aja...')
+#4 {main}
+  thrown in D:\xampp\htdocs\bridget\wp-content\plugins\acf-extended\includes\field-groups\field-group-hide-on-screen.php on line 136
+
